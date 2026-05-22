@@ -47,11 +47,6 @@ Recording and managing therapy session notes securely is essential for maintaini
 ### Patient Progress Tracking
 Monitoring patient progress over time requires structured tracking systems. Therapists need visibility into historical data and treatment progress to provide more personalized and effective care.
 
-### Requirement for Dedicated Applications
-To effectively address these challenges, the ecosystem required two dedicated applications:
-
-- **MyJoie User App** – Designed for individuals and couples seeking mental health support and therapy services.
-- **MyJoie Therapist App** – Designed specifically for therapists to manage consultations, schedules, client records, and professional activities.
 ---
 
 ## Technology I Use
