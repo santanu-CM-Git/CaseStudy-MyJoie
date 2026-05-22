@@ -23,25 +23,35 @@ By combining modern communication technology with personalized healthcare experi
 
 ## Problem
 
-Mental healthcare accessibility often becomes challenging due to:
+### Geographical Limitations
+Accessing mental healthcare services can be difficult for users living in remote locations or areas with limited availability of qualified therapists. Physical distance often creates barriers that prevent individuals from receiving timely and consistent mental health support.
 
-- Geographical limitations
-- Scheduling issues
-- Lack of convenient communication channels between therapists and clients
-- Administrative burdens on therapists
+### Scheduling Issues
+Traditional appointment systems can create difficulties in coordinating suitable time slots between therapists and clients. Limited flexibility often results in delays, missed sessions, and reduced continuity of care.
 
-Therapists also face challenges managing:
+### Limited Communication Channels
+The absence of convenient communication methods between therapists and clients can negatively affect the overall therapy experience. Users increasingly require flexible options such as chat, audio calls, and video consultations for effective and accessible interactions.
 
-- Appointments
-- Client records
-- Session notes
-- Patient progress tracking
+### Administrative Burden on Therapists
+Therapists often spend significant time handling administrative responsibilities in addition to patient care. These operational tasks can reduce efficiency and limit the amount of time available for meaningful client interactions.
 
-The ecosystem required two dedicated applications:
+### Appointment Management Challenges
+Managing therapy appointments manually can become difficult as the number of clients grows. Therapists need an organized system to handle scheduling, rescheduling, and session tracking efficiently.
 
-- **MyJoie User App**
-- **MyJoie Therapist App**
+### Client Record Management
+Maintaining and organizing client information, medical history, and therapy records can become increasingly complex without a structured digital system.
 
+### Session Notes Management
+Recording and managing therapy session notes securely is essential for maintaining treatment continuity. Traditional workflows can make accessing and updating records time-consuming.
+
+### Patient Progress Tracking
+Monitoring patient progress over time requires structured tracking systems. Therapists need visibility into historical data and treatment progress to provide more personalized and effective care.
+
+### Requirement for Dedicated Applications
+To effectively address these challenges, the ecosystem required two dedicated applications:
+
+- **MyJoie User App** – Designed for individuals and couples seeking mental health support and therapy services.
+- **MyJoie Therapist App** – Designed specifically for therapists to manage consultations, schedules, client records, and professional activities.
 ---
 
 ## Technology I Use
