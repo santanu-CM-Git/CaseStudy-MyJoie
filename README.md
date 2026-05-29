@@ -58,7 +58,7 @@ To address these challenges effectively, the ecosystem required two dedicated ap
 
 ### Backend
 - Laravel
-- MySQL
+- PostgreSQL
 - AWS EC2
 
 ### Real-Time Communication
